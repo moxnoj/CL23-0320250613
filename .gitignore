@@ -1,0 +1,98 @@
+# Visual Studio 生成的文件
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# 用户特定文件
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# 用户特定文件 (MonoDevelop/Xamarin Studio)
+*.userprefs
+
+# Mono自动生成的文件
+mono_crash.*
+
+# 构建结果
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio 2015/2017 缓存/选项目录
+.vs/
+# 取消注释下一行，如果你不想要检查源代码管理中的用户特定文件
+#*.user
+
+# Visual Studio 2017 自动生成的文件
+Generated\ Files/
+
+# MSTest 测试结果
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NUnit
+*.VisualState.xml
+TestResult.xml
+nunit-*.xml
+
+# 构建项目文件和临时文件
+*.tmp
+*.temp
+*.log
+*.tlog
+
+# 预编译头文件
+*.gch
+*.pch
+
+# 编译的静态库
+*.lai
+*.la
+*.a
+*.lib
+
+# 可执行文件
+*.exe
+*.out
+*.app
+*.dll
+*.so
+*.dylib
+
+# 调试文件
+*.pdb
+*.ilk
+*.map
+*.exp
+
+# 其他
+*.swp
+*.swo
+*~
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# 项目特定
+# 保留这些文件，因为它们对调试很重要
+!调试指南.md
+!test_debug.bat
+!launch.json 
